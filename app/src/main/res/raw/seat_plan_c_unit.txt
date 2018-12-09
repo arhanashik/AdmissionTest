@@ -1,0 +1,936 @@
+1.0
+A-314
+PSTU Main Campus
+ARD Lab
+30.0
+90001.0
+90030.0
+30.0
+2.0
+A-304
+PSTU Main Campus
+ARD (East) 
+25.0
+90031.0
+90055.0
+25.0
+3.0
+A-312
+PSTU Main Campus
+ARD (West) 
+25.0
+90056.0
+90080.0
+25.0
+4.0
+Benz-B-11
+PSTU Main Campus
+ARD  Benzene
+55.0
+90081.0
+90135.0
+55.0
+5.0
+Benz-B-01
+PSTU Main Campus
+SSC Benzene
+35.0
+90136.0
+90170.0
+35.0
+6.0
+B-103
+PSTU Main Campus
+SSC Lab
+25.0
+90171.0
+90195.0
+25.0
+7.0
+Benz-B-07
+PSTU Main Campus
+ACM Benzene
+50.0
+90196.0
+90245.0
+50.0
+8.0
+Benz-B-03
+PSTU Main Campus
+GPB Benzene
+50.0
+90246.0
+90295.0
+50.0
+9.0
+B-203
+PSTU Main Campus
+GPB Lab
+24.0
+90296.0
+90319.0
+24.0
+10.0
+B- 210
+PSTU Main Campus
+BCM  lab
+30.0
+90320.0
+90349.0
+30.0
+11.0
+Benz-B-09
+PSTU Main Campus
+BCM Benzene
+50.0
+90350.0
+90399.0
+50.0
+12.0
+Benz-B-05
+PSTU Main Campus
+PLP Benzene
+50.0
+90400.0
+90449.0
+50.0
+13.0
+B-311
+PSTU Main Campus
+ENT Lab
+30.0
+90450.0
+90479.0
+30.0
+14.0
+Benz-C-02
+PSTU Main Campus
+HRT Benzene
+50.0
+90480.0
+90529.0
+50.0
+15.0
+C-103
+PSTU Main Campus
+HRT Lab.
+30.0
+90530.0
+90559.0
+30.0
+16.0
+C-111
+PSTU Main Campus
+HRT Post. Lab.
+30.0
+90560.0
+90589.0
+30.0
+17.0
+C-112
+PSTU Main Campus
+AGE Lab.
+25.0
+90590.0
+90614.0
+25.0
+18.0
+Benz-C-08
+PSTU Main Campus
+AGE Benzene
+50.0
+90615.0
+90664.0
+50.0
+19.0
+Benz-C-204
+PSTU Main Campus
+AGB Benzene
+50.0
+90665.0
+90714.0
+50.0
+20.0
+C-211
+PSTU Main Campus
+AGF Lab-2
+35.0
+90715.0
+90749.0
+35.0
+21.0
+C-212
+PSTU Main Campus
+AGF Lab-1
+20.0
+90750.0
+90769.0
+20.0
+22.0
+Benz-C-10
+PSTU Main Campus
+AGF Benzene
+50.0
+90770.0
+90819.0
+50.0
+23.0
+Benz-C-06
+PSTU Main Campus
+ENT Benzene
+50.0
+90820.0
+90869.0
+50.0
+24.0
+C-303
+PSTU Main Campus
+ENT Lab
+40.0
+90870.0
+90909.0
+40.0
+25.0
+C-311
+PSTU Main Campus
+ENT MS Lab-1
+20.0
+90910.0
+90929.0
+20.0
+26.0
+Benz-C-312
+PSTU Main Campus
+ENT Benzene
+50.0
+90930.0
+90979.0
+50.0
+27.0
+Benz- 313
+PSTU Main Campus
+ENT MS Lab-2
+35.0
+90980.0
+91014.0
+35.0
+28.0
+C-403
+PSTU Main Campus
+STT Lab
+30.0
+91015.0
+91044.0
+30.0
+29.0
+C-410
+PSTU Main Campus
+BTH Lab-1
+30.0
+91045.0
+91074.0
+30.0
+30.0
+C-411
+PSTU Main Campus
+BTH Lab-2
+20.0
+91075.0
+91094.0
+20.0
+31.0
+A-1
+PSTU Main Campus
+Auditorium
+200.0
+91095.0
+91294.0
+200.0
+32.0
+D-101
+PSTU Main Campus
+DRE Lab-1
+20.0
+91295.0
+91314.0
+20.0
+33.0
+D-102
+PSTU Main Campus
+DRE Lab-2
+50.0
+91315.0
+91364.0
+50.0
+34.0
+D-202
+PSTU Main Campus
+Env. Science Lab
+45.0
+91365.0
+91409.0
+45.0
+35.0
+D-208
+PSTU Main Campus
+Earth Observation Lab.
+30.0
+91410.0
+91439.0
+30.0
+36.0
+D-212
+PSTU Main Campus
+DRM Lab
+20.0
+91440.0
+91459.0
+20.0
+37.0
+D-301
+PSTU Main Campus
+Class Room-1
+45.0
+91460.0
+91504.0
+45.0
+38.0
+D-302
+PSTU Main Campus
+Class Room-2
+45.0
+91505.0
+91549.0
+45.0
+39.0
+D-304
+PSTU Main Campus
+Emergency Management Lab
+20.0
+91550.0
+91569.0
+20.0
+40.0
+D-401
+PSTU Main Campus
+Class Room-1
+45.0
+91570.0
+91614.0
+45.0
+41.0
+D-402
+PSTU Main Campus
+Class Room-2
+45.0
+91615.0
+91659.0
+45.0
+42.0
+105.0
+PSTU Main Campus
+BBA, Class Room-2
+43.0
+91660.0
+91702.0
+43.0
+43.0
+106.0
+PSTU Main Campus
+BBA Class Room-1
+60.0
+91703.0
+91762.0
+60.0
+44.0
+108.0
+PSTU Main Campus
+BBA Class Room-3
+40.0
+91763.0
+91802.0
+40.0
+45.0
+110.0
+PSTU Main Campus
+BBA Class Room-4
+28.0
+91803.0
+91830.0
+28.0
+46.0
+208.0
+PSTU Main Campus
+BBA Class Room-5
+35.0
+91831.0
+91865.0
+35.0
+47.0
+301.0
+PSTU Main Campus
+CSE Class Room-1
+40.0
+91866.0
+91905.0
+40.0
+48.0
+302 (CIT Lab)
+PSTU Main Campus
+CSE Class Room-2
+43.0
+91906.0
+91948.0
+43.0
+49.0
+303.0
+PSTU Main Campus
+CSE, EEE Lab
+24.0
+91949.0
+91972.0
+24.0
+50.0
+305.0
+PSTU Main Campus
+CSE Class Room-4
+42.0
+91973.0
+92014.0
+42.0
+51.0
+401 CCE
+PSTU Main Campus
+CSE Class Room-3
+25.0
+92015.0
+92039.0
+25.0
+52.0
+101.0
+PSTU Main Campus
+Fisheries CR-1& 2
+73.0
+92040.0
+92112.0
+73.0
+53.0
+102.0
+PSTU Main Campus
+ Fisheries CR-3
+50.0
+92113.0
+92162.0
+50.0
+54.0
+103.0
+PSTU Main Campus
+ Fisheries CR-4
+50.0
+92163.0
+92212.0
+50.0
+55.0
+108.0
+PSTU Main Campus
+Fisheries  AQC Lab
+25.0
+92213.0
+92237.0
+25.0
+56.0
+109.0
+PSTU Main Campus
+Fisheries FST Lab
+25.0
+92238.0
+92262.0
+25.0
+57.0
+110.0
+PSTU Main Campus
+Fisheries FBG Lab
+25.0
+92263.0
+92287.0
+25.0
+58.0
+111.0
+PSTU Main Campus
+Fisheries FMN Lab
+25.0
+92288.0
+92312.0
+25.0
+59.0
+301.0
+PSTU Main Campus
+ NFS Class Room-1
+50.0
+92313.0
+92362.0
+50.0
+60.0
+302.0
+PSTU Main Campus
+ NFS Class Room-2
+50.0
+92363.0
+92412.0
+50.0
+61.0
+303.0
+PSTU Main Campus
+ NFS, Class Room-3
+50.0
+92413.0
+92462.0
+50.0
+62.0
+304.0
+PSTU Main Campus
+ NFS Class Room-4
+50.0
+92463.0
+92512.0
+50.0
+63.0
+101.0
+PSTU Main Campus
+ TSC-101
+50.0
+92513.0
+92562.0
+50.0
+64.0
+103.0
+PSTU Main Campus
+ TSC-103
+50.0
+92563.0
+92612.0
+50.0
+65.0
+104.0
+PSTU Main Campus
+ TSC-104
+50.0
+92613.0
+92662.0
+50.0
+66.0
+201.0
+PSTU Main Campus
+ TSC-201
+50.0
+92663.0
+92712.0
+50.0
+67.0
+202.0
+PSTU Main Campus
+ TSC-202
+50.0
+92713.0
+92762.0
+50.0
+68.0
+203.0
+PSTU Main Campus
+ TSC-203
+35.0
+92763.0
+92797.0
+35.0
+69.0
+401.0
+PSTU Main Campus
+TSC Conference Room
+387.0
+92798.0
+93184.0
+387.0
+70.0
+Admin-401
+PSTU Main Campus
+Exam Hall-1 (S)
+90.0
+93185.0
+93274.0
+90.0
+71.0
+Admin-402
+PSTU Main Campus
+Exam Hall-2 (N)
+120.0
+93275.0
+93394.0
+120.0
+72.0
+Admin-403 &404
+PSTU Main Campus
+Exam Hall-3 (S)
+70.0
+93395.0
+93464.0
+70.0
+73.0
+West-01
+Srijanee Bidyaniketan
+West-01
+28.0
+93465.0
+93492.0
+28.0
+74.0
+West-02
+Srijanee Bidyaniketan
+West-02
+28.0
+93493.0
+93520.0
+28.0
+75.0
+West-03
+Srijanee Bidyaniketan
+West-03
+28.0
+93521.0
+93548.0
+28.0
+76.0
+West-04
+Srijanee Bidyaniketan
+West-04
+40.0
+93549.0
+93588.0
+40.0
+77.0
+East-01
+Srijanee Bidyaniketan
+East-01
+22.0
+93589.0
+93610.0
+22.0
+78.0
+East-02
+Srijanee Bidyaniketan
+East-02
+40.0
+93611.0
+93650.0
+40.0
+79.0
+East-03
+Srijanee Bidyaniketan
+East-03
+20.0
+93651.0
+93670.0
+20.0
+80.0
+East-04
+Srijanee Bidyaniketan
+East-04
+50.0
+93671.0
+93720.0
+50.0
+81.0
+East-05
+Srijanee Bidyaniketan
+East-05
+32.0
+93721.0
+93752.0
+32.0
+82.0
+East-06
+Srijanee Bidyaniketan
+East-06
+32.0
+93753.0
+93784.0
+32.0
+83.0
+East-07
+Srijanee Bidyaniketan
+East-07
+32.0
+93785.0
+93816.0
+32.0
+84.0
+North-01
+Srijanee Bidyaniketan
+North-01
+40.0
+93817.0
+93856.0
+40.0
+85.0
+North-02
+Srijanee Bidyaniketan
+North-02
+35.0
+93857.0
+93891.0
+35.0
+86.0
+North-03
+Srijanee Bidyaniketan
+North-03
+24.0
+93892.0
+93915.0
+24.0
+87.0
+North-04
+Srijanee Bidyaniketan
+North-04
+40.0
+93916.0
+93955.0
+40.0
+88.0
+AK-01 (W)
+A.K. & Nasima K. Girls’ School 
+AK-01 (W)
+44.0
+93956.0
+93999.0
+44.0
+89.0
+AK-02 (W)
+A.K. & Nasima K. Girls’ School 
+AK-02 (W)
+44.0
+94000.0
+94043.0
+44.0
+90.0
+AK-03 (N)
+A.K. & Nasima K. Girls’ School 
+AK-03 (N)
+56.0
+94044.0
+94099.0
+56.0
+91.0
+AK-04 (N)
+A.K. & Nasima K. Girls’ School 
+AK-04 (N)
+54.0
+94100.0
+94153.0
+54.0
+92.0
+AK-05 (W)
+A.K. & Nasima K. Girls’ School 
+AK-05 (W)
+44.0
+94154.0
+94197.0
+44.0
+93.0
+AK-06 (W)
+A.K. & Nasima K. Girls’ School 
+AK-06 (W)
+56.0
+94198.0
+94253.0
+56.0
+94.0
+AK-08
+A.K. & Nasima K. Girls’ School 
+AK-08
+26.0
+94254.0
+94279.0
+26.0
+95.0
+AK-09
+A.K. & Nasima K. Girls’ School 
+AK-09
+26.0
+94280.0
+94305.0
+26.0
+96.0
+AK-10
+A.K. & Nasima K. Girls’ School 
+AK-10
+26.0
+94306.0
+94331.0
+26.0
+97.0
+AK-11
+A.K. & Nasima K. Girls’ School 
+AK-11
+26.0
+94332.0
+94357.0
+26.0
+98.0
+AK-12
+A.K. & Nasima K. Girls’ School 
+AK-12
+26.0
+94358.0
+94383.0
+26.0
+99.0
+AK-13
+A.K. & Nasima K. Girls’ School 
+AK-13
+26.0
+94384.0
+94409.0
+26.0
+100.0
+AK-14
+A.K. & Nasima K. Girls’ School 
+AK-14
+26.0
+94410.0
+94435.0
+26.0
+101.0
+NK-01 (W)
+A.K. & Nasima K. Girls’ School 
+NK-01 (W)
+40.0
+94436.0
+94475.0
+40.0
+102.0
+NK-02 (N)
+A.K. & Nasima K. Girls’ School 
+NK-02 (N)
+48.0
+94476.0
+94523.0
+48.0
+103.0
+NK-03 (N)
+A.K. & Nasima K. Girls’ School 
+NK-03 (N)
+46.0
+94524.0
+94569.0
+46.0
+104.0
+NK-04 (E)
+A.K. & Nasima K. Girls’ School 
+NK-04 (E)
+28.0
+94570.0
+94597.0
+28.0
+105.0
+NK-05 (E)
+A.K. & Nasima K. Girls’ School 
+NK-05 (E)
+28.0
+94598.0
+94625.0
+28.0
+106.0
+NK-06 (E)
+A.K. & Nasima K. Girls’ School 
+NK-06 (E)
+28.0
+94626.0
+94653.0
+28.0
+107.0
+NK-01 (N)
+A.K. & Nasima K. Girls’ School 
+NK-01 (N)
+44.0
+94654.0
+94697.0
+44.0
+108.0
+120.0
+Janata College
+120.0
+40.0
+94698.0
+94737.0
+40.0
+109.0
+121.0
+Janata College
+121.0
+40.0
+94738.0
+94777.0
+40.0
+110.0
+201.0
+Janata College
+201.0
+60.0
+94778.0
+94837.0
+60.0
+111.0
+301.0
+Janata College
+301.0
+60.0
+94838.0
+94897.0
+60.0
+112.0
+303.0
+Janata College
+303.0
+40.0
+94898.0
+94937.0
+40.0
+113.0
+304.0
+Janata College
+304.0
+60.0
+94938.0
+94997.0
+60.0
+114.0
+123.0
+Janata College
+123.0
+40.0
+94998.0
+95037.0
+40.0
+115.0
+124.0
+Janata College
+124.0
+40.0
+95038.0
+95077.0
+40.0
+116.0
+205.0
+Janata College
+205.0
+40.0
+95078.0
+95117.0
+40.0
+117.0
+206.0
+Janata College
+206.0
+40.0
+95118.0
+95139.0
+22.0

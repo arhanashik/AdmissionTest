@@ -1,0 +1,8 @@
+<!-- drawaletter_A-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path android:fillColor="#000" android:pathData="M9.99,12L12,6.7L14.1,12M10,3L5.1,17H8.09L9.12,14H14.9L16.2,17H18.9L13,3H11Z" />
+</vector>

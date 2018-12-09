@@ -1,0 +1,432 @@
+1.0
+A-314
+PSTU Main Campus
+ARD Lab
+30.0
+70001.0
+70030.0
+30.0
+2.0
+A-304
+PSTU Main Campus
+ARD (East) 
+25.0
+70031.0
+70055.0
+25.0
+3.0
+A-312
+PSTU Main Campus
+ARD (West) 
+25.0
+70056.0
+70080.0
+25.0
+4.0
+Benz-B-11
+PSTU Main Campus
+ARD  Benzene
+55.0
+70081.0
+70135.0
+55.0
+5.0
+Benz-B-01
+PSTU Main Campus
+SSC Benzene
+35.0
+70136.0
+70170.0
+35.0
+6.0
+B-103
+PSTU Main Campus
+SSC Lab
+25.0
+70171.0
+70195.0
+25.0
+7.0
+Benz-B-07
+PSTU Main Campus
+ACM Benzene
+50.0
+70196.0
+70245.0
+50.0
+8.0
+Benz-B-03
+PSTU Main Campus
+GPB Benzene
+50.0
+70246.0
+70295.0
+50.0
+9.0
+B-203
+PSTU Main Campus
+GPB Lab
+24.0
+70296.0
+70319.0
+24.0
+10.0
+B- 210
+PSTU Main Campus
+BCM  lab
+30.0
+70320.0
+70349.0
+30.0
+11.0
+Benz-B-09
+PSTU Main Campus
+BCM Benzene
+50.0
+70350.0
+70399.0
+50.0
+12.0
+Benz-B-05
+PSTU Main Campus
+PLP Benzene
+50.0
+70400.0
+70449.0
+50.0
+13.0
+B-311
+PSTU Main Campus
+ENT Lab
+30.0
+70450.0
+70479.0
+30.0
+14.0
+Benz-C-02
+PSTU Main Campus
+HRT Benzene
+50.0
+70480.0
+70529.0
+50.0
+15.0
+C-103
+PSTU Main Campus
+HRT Lab.
+30.0
+70530.0
+70559.0
+30.0
+16.0
+C-111
+PSTU Main Campus
+HRT Post. Lab.
+30.0
+70560.0
+70589.0
+30.0
+17.0
+C-112
+PSTU Main Campus
+AGE Lab.
+25.0
+70590.0
+70614.0
+25.0
+18.0
+Benz-C-08
+PSTU Main Campus
+AGE Benzene
+50.0
+70615.0
+70664.0
+50.0
+19.0
+Benz-C-204
+PSTU Main Campus
+AGB Benzene
+50.0
+70665.0
+70714.0
+50.0
+20.0
+C-211
+PSTU Main Campus
+AGF Lab-2
+35.0
+70715.0
+70749.0
+35.0
+21.0
+C-212
+PSTU Main Campus
+AGF Lab-1
+20.0
+70750.0
+70769.0
+20.0
+22.0
+Benz-C-10
+PSTU Main Campus
+AGF Benzene
+50.0
+70770.0
+70819.0
+50.0
+23.0
+Benz-C-06
+PSTU Main Campus
+ENT Benzene
+50.0
+70820.0
+70869.0
+50.0
+24.0
+C-303
+PSTU Main Campus
+ENT Lab
+40.0
+70870.0
+70909.0
+40.0
+25.0
+C-311
+PSTU Main Campus
+ENT MS Lab-1
+20.0
+70910.0
+70929.0
+20.0
+26.0
+Benz-C-312
+PSTU Main Campus
+ENT Benzene
+50.0
+70930.0
+70979.0
+50.0
+27.0
+Benz- 313
+PSTU Main Campus
+ENT MS Lab-2
+35.0
+70980.0
+71014.0
+35.0
+28.0
+C-403
+PSTU Main Campus
+STT Lab
+30.0
+71015.0
+71044.0
+30.0
+29.0
+C-410
+PSTU Main Campus
+BTH Lab-1
+30.0
+71045.0
+71074.0
+30.0
+30.0
+C-411
+PSTU Main Campus
+BTH Lab-2
+20.0
+71075.0
+71094.0
+20.0
+31.0
+A-1
+PSTU Main Campus
+Auditorium
+200.0
+71095.0
+71294.0
+200.0
+32.0
+D-101
+PSTU Main Campus
+DRE Lab-1
+20.0
+71295.0
+71314.0
+20.0
+33.0
+D-102
+PSTU Main Campus
+DRE Lab-2
+50.0
+71315.0
+71364.0
+50.0
+34.0
+D-202
+PSTU Main Campus
+Env. Science Lab
+45.0
+71365.0
+71409.0
+45.0
+35.0
+D-208
+PSTU Main Campus
+Earth Observation Lab.
+30.0
+71410.0
+71439.0
+30.0
+36.0
+D-212
+PSTU Main Campus
+DRM Lab
+20.0
+71440.0
+71459.0
+20.0
+37.0
+D-301
+PSTU Main Campus
+Class Room-1
+45.0
+71460.0
+71504.0
+45.0
+38.0
+D-302
+PSTU Main Campus
+Class Room-2
+45.0
+71505.0
+71549.0
+45.0
+39.0
+D-304
+PSTU Main Campus
+Emergency Management Lab
+20.0
+71550.0
+71569.0
+20.0
+40.0
+D-401
+PSTU Main Campus
+Class Room-1
+45.0
+71570.0
+71614.0
+45.0
+41.0
+D-402
+PSTU Main Campus
+Class Room-2
+45.0
+71615.0
+71659.0
+45.0
+42.0
+105.0
+PSTU Main Campus
+BBA, Class Room-2
+43.0
+71660.0
+71702.0
+43.0
+43.0
+106.0
+PSTU Main Campus
+BBA Class Room-1
+60.0
+71703.0
+71762.0
+60.0
+44.0
+108.0
+PSTU Main Campus
+BBA Class Room-3
+40.0
+71763.0
+71802.0
+40.0
+45.0
+110.0
+PSTU Main Campus
+BBA Class Room-4
+28.0
+71803.0
+71830.0
+28.0
+46.0
+208.0
+PSTU Main Campus
+BBA Class Room-5
+35.0
+71831.0
+71865.0
+35.0
+47.0
+301.0
+PSTU Main Campus
+CSE Class Room-1
+40.0
+71866.0
+71905.0
+40.0
+48.0
+302 (CIT Lab)
+PSTU Main Campus
+CSE Class Room-2
+43.0
+71906.0
+71948.0
+43.0
+49.0
+303.0
+PSTU Main Campus
+CSE, EEE Lab
+24.0
+71949.0
+71972.0
+24.0
+50.0
+305.0
+PSTU Main Campus
+CSE Class Room-4
+42.0
+71973.0
+72014.0
+42.0
+51.0
+401 CCE
+PSTU Main Campus
+CSE Class Room-3
+25.0
+72015.0
+72039.0
+25.0
+52.0
+101.0
+PSTU Main Campus
+Fisheries CR-1& 2
+73.0
+72040.0
+72112.0
+73.0
+53.0
+102.0
+PSTU Main Campus
+Fisheries CR-3
+50.0
+72113.0
+72162.0
+50.0
+54.0
+103.0
+PSTU Main Campus
+Fisheries CR-4
+50.0
+72163.0
+72200.0
+38.0

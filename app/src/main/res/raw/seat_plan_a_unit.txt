@@ -1,0 +1,1608 @@
+1.0
+A-314
+PSTU Main Campus
+ARD Lab
+30.0
+50001.0
+50030.0
+30.0
+2.0
+A-304
+PSTU Main Campus
+ARD (East) 
+25.0
+50031.0
+50055.0
+25.0
+3.0
+A-312
+PSTU Main Campus
+ARD (West) 
+25.0
+50056.0
+50080.0
+25.0
+4.0
+Benz-B-11
+PSTU Main Campus
+ARD  Benzene
+55.0
+50081.0
+50135.0
+55.0
+5.0
+Benz-B-01
+PSTU Main Campus
+SSC Benzene
+35.0
+50136.0
+50170.0
+35.0
+6.0
+B-103
+PSTU Main Campus
+SSC Lab
+25.0
+50171.0
+50195.0
+25.0
+7.0
+Benz-B-07
+PSTU Main Campus
+ACM Benzene
+50.0
+50196.0
+50245.0
+50.0
+8.0
+Benz-B-03
+PSTU Main Campus
+GPB Benzene
+50.0
+50246.0
+50295.0
+50.0
+9.0
+B-203
+PSTU Main Campus
+GPB Lab
+24.0
+50296.0
+50319.0
+24.0
+10.0
+B- 210
+PSTU Main Campus
+BCM  lab
+30.0
+50320.0
+50349.0
+30.0
+11.0
+Benz-B-09
+PSTU Main Campus
+BCM Benzene
+50.0
+50350.0
+50399.0
+50.0
+12.0
+Benz-B-05
+PSTU Main Campus
+PLP Benzene
+50.0
+50400.0
+50449.0
+50.0
+13.0
+B-311
+PSTU Main Campus
+ENT Lab
+30.0
+50450.0
+50479.0
+30.0
+14.0
+Benz-C-02
+PSTU Main Campus
+HRT Benzene
+50.0
+50480.0
+50529.0
+50.0
+15.0
+C-103
+PSTU Main Campus
+HRT Lab.
+30.0
+50530.0
+50559.0
+30.0
+16.0
+C-111
+PSTU Main Campus
+HRT Post. Lab.
+30.0
+50560.0
+50589.0
+30.0
+17.0
+C-112
+PSTU Main Campus
+AGE Lab.
+25.0
+50590.0
+50614.0
+25.0
+18.0
+Benz-C-08
+PSTU Main Campus
+AGE Benzene
+50.0
+50615.0
+50664.0
+50.0
+19.0
+Benz-C-204
+PSTU Main Campus
+AGB Benzene
+50.0
+50665.0
+50714.0
+50.0
+20.0
+C-211
+PSTU Main Campus
+AGF Lab-2
+35.0
+50715.0
+50749.0
+35.0
+21.0
+C-212
+PSTU Main Campus
+AGF Lab-1
+20.0
+50750.0
+50769.0
+20.0
+22.0
+Benz-C-10
+PSTU Main Campus
+AGF Benzene
+50.0
+50770.0
+50819.0
+50.0
+23.0
+Benz-C-06
+PSTU Main Campus
+ENT Benzene
+50.0
+50820.0
+50869.0
+50.0
+24.0
+C-303
+PSTU Main Campus
+ENT Lab
+40.0
+50870.0
+50909.0
+40.0
+25.0
+C-311
+PSTU Main Campus
+ENT MS Lab-1
+20.0
+50910.0
+50929.0
+20.0
+26.0
+Benz-C-312
+PSTU Main Campus
+ENT Benzene
+50.0
+50930.0
+50979.0
+50.0
+27.0
+Benz- 313
+PSTU Main Campus
+ENT MS Lab-2
+35.0
+50980.0
+51014.0
+35.0
+28.0
+C-403
+PSTU Main Campus
+STT Lab
+30.0
+51015.0
+51044.0
+30.0
+29.0
+C-410
+PSTU Main Campus
+BTH Lab-1
+30.0
+51045.0
+51074.0
+30.0
+30.0
+C-411
+PSTU Main Campus
+BTH Lab-2
+20.0
+51075.0
+51094.0
+20.0
+31.0
+A-1
+PSTU Main Campus
+Auditorium
+200.0
+51095.0
+51294.0
+200.0
+32.0
+D-101
+PSTU Main Campus
+DRE Lab-1
+20.0
+51295.0
+51314.0
+20.0
+33.0
+D-102
+PSTU Main Campus
+DRE Lab-2
+50.0
+51315.0
+51364.0
+50.0
+34.0
+D-202
+PSTU Main Campus
+Env. Science Lab
+45.0
+51365.0
+51409.0
+45.0
+35.0
+D-208
+PSTU Main Campus
+Earth Observation Lab.
+30.0
+51410.0
+51439.0
+30.0
+36.0
+D-212
+PSTU Main Campus
+DRM Lab
+20.0
+51440.0
+51459.0
+20.0
+37.0
+D-301
+PSTU Main Campus
+Class Room-1
+45.0
+51460.0
+51504.0
+45.0
+38.0
+D-302
+PSTU Main Campus
+Class Room-2
+45.0
+51505.0
+51549.0
+45.0
+39.0
+D-304
+PSTU Main Campus
+Emergency Management Lab
+20.0
+51550.0
+51569.0
+20.0
+40.0
+D-401
+PSTU Main Campus
+Class Room-1
+45.0
+51570.0
+51614.0
+45.0
+41.0
+D-402
+PSTU Main Campus
+Class Room-2
+45.0
+51615.0
+51659.0
+45.0
+42.0
+105.0
+PSTU Main Campus
+BBA, Class Room-2
+43.0
+51660.0
+51702.0
+43.0
+43.0
+106.0
+PSTU Main Campus
+BBA Class Room-1
+60.0
+51703.0
+51762.0
+60.0
+44.0
+108.0
+PSTU Main Campus
+BBA Class Room-3
+40.0
+51763.0
+51802.0
+40.0
+45.0
+110.0
+PSTU Main Campus
+BBA Class Room-4
+28.0
+51803.0
+51830.0
+28.0
+46.0
+208.0
+PSTU Main Campus
+BBA Class Room-5
+35.0
+51831.0
+51865.0
+35.0
+47.0
+301.0
+PSTU Main Campus
+CSE Class Room-1
+40.0
+51866.0
+51905.0
+40.0
+48.0
+302 (CIT Lab)
+PSTU Main Campus
+CSE Class Room-2
+43.0
+51906.0
+51948.0
+43.0
+49.0
+303.0
+PSTU Main Campus
+CSE, EEE Lab
+24.0
+51949.0
+51972.0
+24.0
+50.0
+305.0
+PSTU Main Campus
+CSE Class Room-4
+42.0
+51973.0
+52014.0
+42.0
+51.0
+401 CCE
+PSTU Main Campus
+CSE Class Room-3
+25.0
+52015.0
+52039.0
+25.0
+52.0
+101.0
+PSTU Main Campus
+Fisheries CR-1& 2
+73.0
+52040.0
+52112.0
+73.0
+53.0
+102.0
+PSTU Main Campus
+ Fisheries CR-3
+50.0
+52113.0
+52162.0
+50.0
+54.0
+103.0
+PSTU Main Campus
+ Fisheries CR-4
+50.0
+52163.0
+52212.0
+50.0
+55.0
+108.0
+PSTU Main Campus
+Fisheries  AQC Lab
+25.0
+52213.0
+52237.0
+25.0
+56.0
+109.0
+PSTU Main Campus
+Fisheries FST Lab
+25.0
+52238.0
+52262.0
+25.0
+57.0
+110.0
+PSTU Main Campus
+Fisheries FBG Lab
+25.0
+52263.0
+52287.0
+25.0
+58.0
+111.0
+PSTU Main Campus
+Fisheries FMN Lab
+25.0
+52288.0
+52312.0
+25.0
+59.0
+301.0
+PSTU Main Campus
+ NFS Class Room-1
+50.0
+52313.0
+52362.0
+50.0
+60.0
+302.0
+PSTU Main Campus
+ NFS Class Room-2
+50.0
+52363.0
+52412.0
+50.0
+61.0
+303.0
+PSTU Main Campus
+ NFS, Class Room-3
+50.0
+52413.0
+52462.0
+50.0
+62.0
+304.0
+PSTU Main Campus
+ NFS Class Room-4
+50.0
+52463.0
+52512.0
+50.0
+63.0
+101.0
+PSTU Main Campus
+ TSC-101
+50.0
+52513.0
+52562.0
+50.0
+64.0
+103.0
+PSTU Main Campus
+ TSC-103
+50.0
+52563.0
+52612.0
+50.0
+65.0
+104.0
+PSTU Main Campus
+ TSC-104
+50.0
+52613.0
+52662.0
+50.0
+66.0
+201.0
+PSTU Main Campus
+ TSC-201
+50.0
+52663.0
+52712.0
+50.0
+67.0
+202.0
+PSTU Main Campus
+ TSC-202
+50.0
+52713.0
+52762.0
+50.0
+68.0
+203.0
+PSTU Main Campus
+ TSC-203
+35.0
+52763.0
+52797.0
+35.0
+69.0
+401.0
+PSTU Main Campus
+ TSC Conference Room
+387.0
+52798.0
+53184.0
+387.0
+70.0
+Admin-401
+PSTU Main Campus
+Exam Hall-1 (S)
+90.0
+53185.0
+53274.0
+90.0
+71.0
+Admin-402
+PSTU Main Campus
+Exam Hall-2 (N)
+120.0
+53275.0
+53394.0
+120.0
+72.0
+Admin-403 &404
+PSTU Main Campus
+Exam Hall-3 (S)
+70.0
+53395.0
+53464.0
+70.0
+73.0
+West-01
+Srijanee Bidyaniketan
+West-01
+28.0
+53465.0
+53492.0
+28.0
+74.0
+West-02
+Srijanee Bidyaniketan
+West-02
+28.0
+53493.0
+53520.0
+28.0
+75.0
+West-03
+Srijanee Bidyaniketan
+West-03
+28.0
+53521.0
+53548.0
+28.0
+76.0
+West-04
+Srijanee Bidyaniketan
+West-04
+40.0
+53549.0
+53588.0
+40.0
+77.0
+East-01
+Srijanee Bidyaniketan
+East-01
+22.0
+53589.0
+53610.0
+22.0
+78.0
+East-02
+Srijanee Bidyaniketan
+East-02
+40.0
+53611.0
+53650.0
+40.0
+79.0
+East-03
+Srijanee Bidyaniketan
+East-03
+20.0
+53651.0
+53670.0
+20.0
+80.0
+East-04
+Srijanee Bidyaniketan
+East-04
+50.0
+53671.0
+53720.0
+50.0
+81.0
+East-05
+Srijanee Bidyaniketan
+East-05
+32.0
+53721.0
+53752.0
+32.0
+82.0
+East-06
+Srijanee Bidyaniketan
+East-06
+32.0
+53753.0
+53784.0
+32.0
+83.0
+East-07
+Srijanee Bidyaniketan
+East-07
+32.0
+53785.0
+53816.0
+32.0
+84.0
+North-01
+Srijanee Bidyaniketan
+North-01
+40.0
+53817.0
+53856.0
+40.0
+85.0
+North-02
+Srijanee Bidyaniketan
+North-02
+35.0
+53857.0
+53891.0
+35.0
+86.0
+North-03
+Srijanee Bidyaniketan
+North-03
+24.0
+53892.0
+53915.0
+24.0
+87.0
+North-04
+Srijanee Bidyaniketan
+North-04
+40.0
+53916.0
+53955.0
+40.0
+88.0
+AK-01 (W)
+A.K. & Nasima K. Girls’ School 
+AK-01 (W)
+44.0
+53956.0
+53999.0
+44.0
+89.0
+AK-02 (W)
+A.K. & Nasima K. Girls’ School 
+AK-02 (W)
+44.0
+54000.0
+54043.0
+44.0
+90.0
+AK-03 (N)
+A.K. & Nasima K. Girls’ School 
+AK-03 (N)
+56.0
+54044.0
+54099.0
+56.0
+91.0
+AK-04 (N)
+A.K. & Nasima K. Girls’ School 
+AK-04 (N)
+54.0
+54100.0
+54153.0
+54.0
+92.0
+AK-05 (W)
+A.K. & Nasima K. Girls’ School 
+AK-05 (W)
+44.0
+54154.0
+54197.0
+44.0
+93.0
+AK-06 (W)
+A.K. & Nasima K. Girls’ School 
+AK-06 (W)
+56.0
+54198.0
+54253.0
+56.0
+94.0
+AK-08
+A.K. & Nasima K. Girls’ School 
+AK-08
+26.0
+54254.0
+54279.0
+26.0
+95.0
+AK-09
+A.K. & Nasima K. Girls’ School 
+AK-09
+26.0
+54280.0
+54305.0
+26.0
+96.0
+AK-10
+A.K. & Nasima K. Girls’ School 
+AK-10
+26.0
+54306.0
+54331.0
+26.0
+97.0
+AK-11
+A.K. & Nasima K. Girls’ School 
+AK-11
+26.0
+54332.0
+54357.0
+26.0
+98.0
+AK-12
+A.K. & Nasima K. Girls’ School 
+AK-12
+26.0
+54358.0
+54383.0
+26.0
+99.0
+AK-13
+A.K. & Nasima K. Girls’ School 
+AK-13
+26.0
+54384.0
+54409.0
+26.0
+100.0
+AK-14
+A.K. & Nasima K. Girls’ School 
+AK-14
+26.0
+54410.0
+54435.0
+26.0
+101.0
+NK-01 (W)
+A.K. & Nasima K. Girls’ School 
+NK-01 (W)
+40.0
+54436.0
+54475.0
+40.0
+102.0
+NK-02 (N)
+A.K. & Nasima K. Girls’ School 
+NK-02 (N)
+48.0
+54476.0
+54523.0
+48.0
+103.0
+NK-03 (N)
+A.K. & Nasima K. Girls’ School 
+NK-03 (N)
+46.0
+54524.0
+54569.0
+46.0
+104.0
+NK-04 (E)
+A.K. & Nasima K. Girls’ School 
+NK-04 (E)
+28.0
+54570.0
+54597.0
+28.0
+105.0
+NK-05 (E)
+A.K. & Nasima K. Girls’ School 
+NK-05 (E)
+28.0
+54598.0
+54625.0
+28.0
+106.0
+NK-06 (E)
+A.K. & Nasima K. Girls’ School 
+NK-06 (E)
+28.0
+54626.0
+54653.0
+28.0
+107.0
+NK-01 (N)
+A.K. & Nasima K. Girls’ School 
+NK-01 (N)
+44.0
+54654.0
+54697.0
+44.0
+108.0
+120.0
+Janata College
+120.0
+40.0
+54698.0
+54737.0
+40.0
+109.0
+121.0
+Janata College
+121.0
+40.0
+54738.0
+54777.0
+40.0
+110.0
+201.0
+Janata College
+201.0
+60.0
+54778.0
+54837.0
+60.0
+111.0
+301.0
+Janata College
+301.0
+60.0
+54838.0
+54897.0
+60.0
+112.0
+303.0
+Janata College
+303.0
+40.0
+54898.0
+54937.0
+40.0
+113.0
+304.0
+Janata College
+304.0
+60.0
+54938.0
+54997.0
+60.0
+114.0
+123.0
+Janata College
+123.0
+40.0
+54998.0
+55037.0
+40.0
+115.0
+124.0
+Janata College
+124.0
+40.0
+55038.0
+55077.0
+40.0
+116.0
+205.0
+Janata College
+205.0
+40.0
+55078.0
+55117.0
+40.0
+117.0
+206.0
+Janata College
+206.0
+40.0
+55118.0
+55157.0
+40.0
+118.0
+207.0
+Janata College
+207.0
+40.0
+55158.0
+55197.0
+40.0
+119.0
+125.0
+Janata College
+125.0
+80.0
+55198.0
+55277.0
+80.0
+120.0
+126.0
+Janata College
+126.0
+40.0
+55278.0
+55317.0
+40.0
+121.0
+106.0
+Janata College
+106.0
+30.0
+55318.0
+55347.0
+30.0
+122.0
+East-04
+Habibullah High School 
+East-04
+40.0
+55348.0
+55387.0
+40.0
+123.0
+East-05
+Habibullah High School 
+East-05
+40.0
+55388.0
+55427.0
+40.0
+124.0
+East-06
+Habibullah High School 
+East-06
+40.0
+55428.0
+55467.0
+40.0
+125.0
+East-07
+Habibullah High School 
+East-07
+40.0
+55468.0
+55507.0
+40.0
+126.0
+East-08
+Habibullah High School 
+East-08
+40.0
+55508.0
+55547.0
+40.0
+127.0
+East-01
+Habibullah High School 
+East-01
+40.0
+55548.0
+55587.0
+40.0
+128.0
+East-02
+Habibullah High School 
+East-02
+40.0
+55588.0
+55627.0
+40.0
+129.0
+East-03
+Habibullah High School 
+East-03
+24.0
+55628.0
+55651.0
+24.0
+130.0
+South-09
+Habibullah High School 
+South-09
+52.0
+55652.0
+55703.0
+52.0
+131.0
+South-10
+Habibullah High School 
+South-10
+22.0
+55704.0
+55725.0
+22.0
+132.0
+South-11
+Habibullah High School 
+South-11
+22.0
+55726.0
+55747.0
+22.0
+133.0
+202.0
+Patuakhali Govt.Mahila College
+Class Room 
+120.0
+55748.0
+55867.0
+120.0
+134.0
+301.0
+Patuakhali Govt.Mahila College
+Class Room 
+120.0
+55868.0
+55987.0
+120.0
+135.0
+302.0
+Patuakhali Govt.Mahila College
+Class Room 
+88.0
+55988.0
+56075.0
+88.0
+136.0
+303.0
+Patuakhali Govt.Mahila College
+Class Room 
+48.0
+56076.0
+56123.0
+48.0
+137.0
+1001.0
+Patuakhali Govt.Mahila College
+Class Room 
+70.0
+56124.0
+56193.0
+70.0
+138.0
+3002.0
+Patuakhali Govt.Mahila College
+Class Room 
+70.0
+56194.0
+56263.0
+70.0
+139.0
+3003.0
+Patuakhali Govt.Mahila College
+Class Room 
+134.0
+56264.0
+56397.0
+134.0
+140.0
+2.0
+Patuakhali Govt.Mahila College
+Class Room 
+50.0
+56398.0
+56447.0
+50.0
+141.0
+3.0
+Patuakhali Govt.Mahila College
+Class Room   
+50.0
+56448.0
+56497.0
+50.0
+142.0
+4.0
+Patuakhali Govt.Mahila College
+Class Room  
+50.0
+56498.0
+56547.0
+50.0
+143.0
+6.0
+Patuakhali Govt.Mahila College
+Class Room 
+50.0
+56548.0
+56597.0
+50.0
+144.0
+7.0
+Patuakhali Govt.Mahila College
+Class Room
+50.0
+56598.0
+56647.0
+50.0
+145.0
+8.0
+Patuakhali Govt.Mahila College
+Class Room
+50.0
+56648.0
+56697.0
+50.0
+146.0
+10.0
+Patuakhali Govt.Mahila College
+Class  room
+50.0
+56698.0
+56747.0
+50.0
+147.0
+11.0
+Patuakhali Govt.Mahila College
+Class Room 
+100.0
+56748.0
+56847.0
+100.0
+148.0
+101.0
+Patuakhali Govt.Girls High School
+Class Room (South-West building) 
+30.0
+56848.0
+56877.0
+30.0
+149.0
+102.0
+Patuakhali Govt.Girls High School
+Class Room (South-West building) 
+30.0
+56878.0
+56907.0
+30.0
+150.0
+103.0
+Patuakhali Govt.Girls High School
+Class Room (South-West building) 
+30.0
+56908.0
+56937.0
+30.0
+151.0
+106.0
+Patuakhali Govt.Girls High School
+Class Room (South-west building) 
+24.0
+56938.0
+56961.0
+24.0
+152.0
+107.0
+Patuakhali Govt.Girls High School
+Class Room (South-West building) 
+24.0
+56962.0
+56985.0
+24.0
+153.0
+108.0
+Patuakhali Govt.Girls High School
+Class Room (West building north side) 
+60.0
+56986.0
+57045.0
+60.0
+154.0
+109.0
+Patuakhali Govt.Girls High School
+Class Room (West building north side) 
+30.0
+57046.0
+57075.0
+30.0
+155.0
+112.0
+Patuakhali Govt.Girls High School
+Class Room (North building ) 
+70.0
+57076.0
+57145.0
+70.0
+156.0
+113.0
+Patuakhali Govt.Girls High School
+Class Room (North building) 
+70.0
+57146.0
+57215.0
+70.0
+157.0
+117.0
+Patuakhali Govt.Girls High School
+Class Room (East building north side)  
+30.0
+57216.0
+57245.0
+30.0
+158.0
+118.0
+Patuakhali Govt.Girls High School
+Class Room (East building north side) 
+30.0
+57246.0
+57275.0
+30.0
+159.0
+119.0
+Patuakhali Govt.Girls High School
+Class Room (East building north side) 
+30.0
+57276.0
+57305.0
+30.0
+160.0
+201.0
+Patuakhali Govt.Girls High School
+Class Room (South-West building)
+30.0
+57306.0
+57335.0
+30.0
+161.0
+202.0
+Patuakhali Govt.Girls High School
+Class Room (South-west building) 
+30.0
+57336.0
+57365.0
+30.0
+162.0
+203.0
+Patuakhali Govt.Girls High School
+Class  (south-west building)
+30.0
+57366.0
+57395.0
+30.0
+163.0
+208.0
+Patuakhali Govt.Girls High School
+Class Room (West building- north side)
+60.0
+57396.0
+57455.0
+60.0
+164.0
+209.0
+Patuakhali Govt.Girls High School
+Class Room (West building -north side) 
+30.0
+57456.0
+57485.0
+30.0
+165.0
+210.0
+Patuakhali Govt.Girls High School
+Class Room (West building -north side) 
+30.0
+57486.0
+57515.0
+30.0
+166.0
+211.0
+Patuakhali Govt.Girls High School
+Class Room ( North building- west side) 
+50.0
+57516.0
+57565.0
+50.0
+167.0
+212.0
+Patuakhali Govt.Girls High School
+Class Room ( North building- west side)
+50.0
+57566.0
+57615.0
+50.0
+168.0
+213.0
+Patuakhali Govt.Girls High School
+Class Room ( North building- Middle)
+50.0
+57616.0
+57665.0
+50.0
+169.0
+216.0
+Patuakhali Govt.Girls High School
+Class Room ( East building) 
+32.0
+57666.0
+57697.0
+32.0
+170.0
+101.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+50.0
+57698.0
+57747.0
+50.0
+171.0
+102.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+52.0
+57748.0
+57799.0
+52.0
+172.0
+110.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+50.0
+57800.0
+57849.0
+50.0
+173.0
+111.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+50.0
+57850.0
+57899.0
+50.0
+174.0
+112.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+34.0
+57900.0
+57933.0
+34.0
+175.0
+113.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+34.0
+57934.0
+57967.0
+34.0
+176.0
+201.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+34.0
+57968.0
+58001.0
+34.0
+177.0
+202.0
+Patuakhali Govt.Jubilee High School
+Class Room 
+34.0
+58002.0
+58035.0
+34.0
+178.0
+203.0
+Patuakhali Govt.Jubilee High School
+Class Room   
+34.0
+58036.0
+58069.0
+34.0
+179.0
+204 (Ka) 
+Patuakhali Govt.Jubilee High School
+Class Room  
+60.0
+58070.0
+58129.0
+60.0
+180.0
+204 (Kha) 
+Patuakhali Govt.Jubilee High School
+Class Room 
+60.0
+58130.0
+58189.0
+60.0
+181.0
+205.0
+Patuakhali Govt.Jubilee High School
+Class Room
+34.0
+58190.0
+58223.0
+34.0
+182.0
+305.0
+Patuakhali Govt.Jubilee High School
+Class Room
+46.0
+58224.0
+58269.0
+46.0
+183.0
+306.0
+Patuakhali Govt.Jubilee High School
+Class  room
+46.0
+58270.0
+58315.0
+46.0
+184.0
+H-101
+Patuakhali Govt.Jubilee High School
+Class Room 
+40.0
+58316.0
+58355.0
+40.0
+185.0
+H-102
+Patuakhali Govt.Jubilee High School
+Class Room 
+40.0
+58356.0
+58395.0
+40.0
+186.0
+H-201
+Patuakhali Govt.Jubilee High School
+Class Room 
+40.0
+58396.0
+58435.0
+40.0
+187.0
+H-202
+Patuakhali Govt.Jubilee High School
+Class Room 
+40.0
+58436.0
+58475.0
+40.0
+188.0
+Tin shed-01
+Patuakhali Govt.Jubilee High School
+Class Room 
+24.0
+58476.0
+58499.0
+24.0
+189.0
+Tin shed-02
+Patuakhali Govt.Jubilee High School
+Class Room 
+24.0
+58500.0
+58523.0
+24.0
+190.0
+Tin shed-03
+Patuakhali Govt.Jubilee High School
+Class Room 
+24.0
+58524.0
+58547.0
+24.0
+191.0
+107.0
+Latif Municipal Seminary
+Class Room-1
+50.0
+58548.0
+58597.0
+50.0
+192.0
+108.0
+Latif Municipal Seminary
+Class Room-2
+62.0
+58598.0
+58659.0
+62.0
+193.0
+201.0
+Latif Municipal Seminary
+Class Room-1
+40.0
+58660.0
+58699.0
+40.0
+194.0
+202.0
+Latif Municipal Seminary
+Class Room-2
+40.0
+58700.0
+58739.0
+40.0
+195.0
+203.0
+Latif Municipal Seminary
+Class Room-3
+50.0
+58740.0
+58789.0
+50.0
+196.0
+204.0
+Latif Municipal Seminary
+Class Room-4
+22.0
+58790.0
+58811.0
+22.0
+197.0
+205.0
+Latif Municipal Seminary
+Class Room-5
+22.0
+58812.0
+58833.0
+22.0
+198.0
+206.0
+Latif Municipal Seminary
+Class Room-6
+42.0
+58834.0
+58875.0
+42.0
+199.0
+209.0
+Latif M. Seminary(Govt. Primary)
+Class Room-1
+24.0
+58876.0
+58899.0
+24.0
+200.0
+210.0
+Latif M. Seminary(Govt. Primary)
+Class Room-2
+24.0
+58900.0
+58923.0
+24.0
+201.0
+211.0
+Latif M. Seminary(Govt. Primary)
+Class Room-3
+24.0
+58924.0
+58947.0
+24.0
